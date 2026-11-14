@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# local database, generated session secret and scored-CSV exports
+data/
+.env
+
+# OS noise
+.DS_Store
