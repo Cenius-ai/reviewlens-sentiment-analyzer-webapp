@@ -40,7 +40,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-No external services required: the entire monitoring dashboard runs from this Full-stack app repo (69 files). Top-level layout: `app/`, `data/`, `devtools/`, `tests/`. Starting up is just `./install.sh`: it installs what is needed and pre-fills the database so you have data to work with straight away. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
+No external services required: the entire monitoring dashboard runs from this Full-stack app repo (59 files). Top-level layout: `app/`, `data/`, `devtools/`, `tests/`. Starting up is just `./install.sh`: it installs what is needed and pre-fills the database so you have data to work with straight away. For environment-specific setup, see [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
